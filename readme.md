@@ -37,3 +37,9 @@ All in one displays for your inventory, bank, guild and vault.
 Bagnon and Bagnonium's shared engine.
 
 Установить: https://www.curseforge.com/wow/addons/bagbrother/install/9193544
+
+### 6. AtlasLoot Classic Forever
+
+AtlasLoot for Classic Forever 2026, including BiS Lists for all Classes & Phases of Classic Forever aswell as advanced BiS Tooltip Functionality
+
+Установить: https://www.curseforge.com/wow/addons/atlasloot-forever/install/9276277
