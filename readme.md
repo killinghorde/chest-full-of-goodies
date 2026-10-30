@@ -15,4 +15,5 @@
 #### 3. Auctionator
 
 #### 4. Bagnon
+All in one displays for your inventory, bank, guild and vault.
 Установить: https://www.curseforge.com/wow/addons/bagnon/install/9193505
