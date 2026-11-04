@@ -44,6 +44,10 @@ AtlasLoot for Classic Forever 2026, including BiS Lists for all Classes & Phases
 
 Установить: https://www.curseforge.com/wow/addons/atlasloot-forever/install/9276277
 
+### 7. Questie
+
+Установить: https://www.curseforge.com/wow/addons/questie/install/9433373
+
 # Таланты
 ## Таланты на прокачке
 #### 1. _Discipline_: Wand Specialization (Rank 1)
