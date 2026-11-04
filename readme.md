@@ -6,6 +6,12 @@
 /castsequence !Shoot, !Shoot
 ```
 
+### 2. Спам трекинга ресурсов (mining & herbalism):
+```
+#showtooltip Shoot
+/castsequence Find Minerals, Find Herbs
+```
+
 # Адоны
 
 ### 1. Leatrix Plus
@@ -53,6 +59,30 @@ AtlasLoot for Classic Forever 2026, including BiS Lists for all Classes & Phases
 A gold ledger for WoW: Forever. See where every gold came from and where it went, your gold per hour while farming and in dungeons, and the real profit on your Auction House trades.
 
 Установить: https://www.curseforge.com/wow/addons/forevergold/install/9268396
+
+### 9. DualTrack
+
+Herbalist AND Miner ? DualTrack silently alternates your tracking for you. Never miss a herb or ore again. For WoW TBC Anniversary and WoW Forever.
+
+Установить: https://www.curseforge.com/wow/addons/dualtrack/install/9025692
+
+### 10. GatherMate2
+
+Collects Herbs, Mines, Gas Clouds, Archaeology, Treasure and Fishing locations and adds them to the worldmap and minimap
+
+Установить: https://www.curseforge.com/wow/addons/gathermate2/install/9414760
+
+### 11. Node Sight
+
+See what every herb and ore on your minimap is, and make the ones near you sparkle.
+
+Установить: https://www.curseforge.com/wow/addons/node-sight/install/9429680
+
+### 12. Node Sight Sparkles
+
+NodeSight's sparkles on their own, for Retail or if you only want the sparkles. Already using NodeSight? You don't need this.
+
+Установить: https://www.curseforge.com/wow/addons/node-sight-sparkles/install/9429671
 
 # Таланты
 ## Таланты на прокачке
