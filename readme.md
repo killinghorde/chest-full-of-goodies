@@ -38,47 +38,41 @@ All in one displays for your inventory, bank, guild and vault.
 
 Установить: https://www.curseforge.com/wow/addons/bagnon/install/9193505
 
-### 5. BagBrother
-
-Bagnon and Bagnonium's shared engine.
-
-Установить: https://www.curseforge.com/wow/addons/bagbrother/install/9193544
-
-### 6. AtlasLoot Classic Forever
+### 5. AtlasLoot Classic Forever
 
 AtlasLoot for Classic Forever 2026, including BiS Lists for all Classes & Phases of Classic Forever aswell as advanced BiS Tooltip Functionality
 
 Установить: https://www.curseforge.com/wow/addons/atlasloot-forever/install/9276277
 
-### 7. Questie
+### 6. Questie
 
 Установить: https://www.curseforge.com/wow/addons/questie/install/9433373
 
-### 8. ForeverGold - Gold Tracker, Farming & AH Profit
+### 7. ForeverGold - Gold Tracker, Farming & AH Profit
 
 A gold ledger for WoW: Forever. See where every gold came from and where it went, your gold per hour while farming and in dungeons, and the real profit on your Auction House trades.
 
 Установить: https://www.curseforge.com/wow/addons/forevergold/install/9268396
 
-### 9. DualTrack
+### 8. DualTrack
 
 Herbalist AND Miner ? DualTrack silently alternates your tracking for you. Never miss a herb or ore again. For WoW TBC Anniversary and WoW Forever.
 
 Установить: https://www.curseforge.com/wow/addons/dualtrack/install/9025692
 
-### 10. GatherMate2
+### 9. GatherMate2
 
 Collects Herbs, Mines, Gas Clouds, Archaeology, Treasure and Fishing locations and adds them to the worldmap and minimap
 
 Установить: https://www.curseforge.com/wow/addons/gathermate2/install/9414760
 
-### 11. Node Sight
+### 10. Node Sight
 
 See what every herb and ore on your minimap is, and make the ones near you sparkle.
 
 Установить: https://www.curseforge.com/wow/addons/node-sight/install/9429680
 
-### 12. Node Sight Sparkles
+### 11. Node Sight Sparkles
 
 NodeSight's sparkles on their own, for Retail or if you only want the sparkles. Already using NodeSight? You don't need this.
 
